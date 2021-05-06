@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey! I'm Rathul 👋
+## A student interested in computer science theory, math, machine learning, and biology!
 <!--
 **ranand-creator/ranand-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
