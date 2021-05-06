@@ -17,8 +17,8 @@
 <ul>
 	<li>C/C++ for algorithmic programming and high-performance computing</li>
 	<li>ML - Python with NumPy/Pandas, TensorFlow, NLTK, and OpenCV</li>
-	<li>Backend Webdev - Python with Flask, Node.js with Express</li>
+	<li>Backend Webdev - Python with Flask, Node.js with Express</li
+	<li>Frontend Webdev - HTML5/CSS, learning JS/React</li>
 	<li>Databases - MySQL, SQLite, PostgreSQL, FaunaDB</li>
-	<li>C/C++ for algorithmic programming and high-performance computing</li>
 	<li>General Purpose Java</li>
 </ul>
