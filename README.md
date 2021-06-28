@@ -5,12 +5,12 @@
 	<p><img src="https://github-readme-stats.vercel.app/api?username=ranand-creator&amp;&bg_color=45,904E95,E76444&title_color=ffffff&text_color=ffffff" alt="My GitHub stats">	</p>
 </div>
 
-<h3>😄 About Me</h3>
+<h3>😄 Contact</h3>
 <ul>
-	<li>🌱 I’m currently learning React.js</li>
 	<li>📫 Email: <a href="mailto:notifyrathul@gmail.com">notifyrathul@gmail.com</a></li>
 	<li>📝 Discord: <a href="https://discordapp.com/users/839743854760689694">rthl#8983</a></li>
 	<li>📷 Instagram: <a href="https://www.instagram.com/therathulanand/">@therathulanand</a></li>
+	<li>🤵 Linkedin: <a href="https://www.linkedin.com/in/rathul-anand-68a301216/">rathul-anand-68a301216</a></li>
 </ul>
 
 <h3>👨🏽‍💻 Skills</h3>
