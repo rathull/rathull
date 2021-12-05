@@ -10,7 +10,7 @@
 	<li>📫 Email: <a href="mailto:notifyrathul@gmail.com">notifyrathul@gmail.com</a></li>
 	<li>📝 Discord: <a href="https://discordapp.com/users/839743854760689694">rthl#8983</a></li>
 	<li>📷 Instagram: <a href="https://www.instagram.com/therathulanand/">@therathulanand</a></li>
-	<li>🤵 Linkedin: <a href="https://www.linkedin.com/in/rathul-anand-68a301216/">rathul-anand-68a301216</a></li>
+	<li>🤵 Linkedin: <a href="https://www.linkedin.com/in/rathul/">rathul</a></li>
 </ul>
 
 <h3>👨🏽‍💻 Skills</h3>
