@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h2>Hey! I'm Rathul 👋</h2>
-	<h3>A student interested in computer science theory, language, and biology!</h3>
+	<h3>A student interested in computer science, language, and biology!</h3>
 	<p><img src="https://github-readme-stats.vercel.app/api?username=ranand-creator&amp;&bg_color=45,904E95,E76444&title_color=ffffff&text_color=ffffff" alt="My GitHub stats">	</p>
 </div>
 
