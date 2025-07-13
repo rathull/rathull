@@ -3,7 +3,4 @@
 	<h2>What's up! I'm Rathul 👋</h2>
 </div>
 
-<h3>😄 Contact</h3>
-<ul>
-	<li>📫 Email: <a href="mailto:rathul@g.ucla.edu">rathul@ucla.edu</a></li>
-</ul>
+Currently a Security Researcher at Semgrep, automating rulevulerability research and detection. Also studying CS and Math at UCLA. 
